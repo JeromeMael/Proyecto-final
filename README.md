@@ -1,3 +1,11 @@
 # Proyecto-final
 print("Hello world");
-print("Error 404 not found");
+if(press up)
+{
+    jump();
+}
+
+void jump()
+{
+    move(0,1,0) * TimedeltaTime;
+}
